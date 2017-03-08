@@ -2,6 +2,8 @@
 
 This is a port of the [Reflex host example][1] to [FLTKHS][2], a Haskell binding to the [FLTK][3] GUI toolkit.
 
+![Screenshot](https://github.com/deech/fltkhs-reflex-host/blob/master/fltkhs-reflex-host.gif)
+
 ## Installation
 
 In order to install and run the demo you will first need to install the FLTK C++ library.
