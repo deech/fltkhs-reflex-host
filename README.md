@@ -13,6 +13,7 @@ Once installed just do:
 
 ```
 > git clone http://github.com/deech/fltkhs-reflex-host
+> stack setup --upgrade-cabal  # reflex requires GHC 7.10.3 which installs with Cabal 1.22 but FLTKHS needs 1.24.x
 > stack install
 > stack exec fltkhs-reflex-host
 ```
