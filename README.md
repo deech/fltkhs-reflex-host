@@ -6,10 +6,7 @@ This is a port of the [Reflex host example][1] to [FLTKHS][2], a Haskell binding
 
 ## Installation
 
-In order to install and run the demo you will first need to install the FLTK C++ library.
-Please follow the installation [instructions][4] but only up to the point of installing the C++ library.
-
-Once installed just do:
+To install just do:
 
 ```
 > git clone http://github.com/deech/fltkhs-reflex-host
