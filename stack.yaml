@@ -1,6 +1,6 @@
 flags: {}
 extra-deps:
-- fltkhs-0.5.3.4
+- fltkhs-0.5.3.9
 - ref-tf-0.4.0.1
 - reflex-0.4.0
 - directory-1.2.7.1
